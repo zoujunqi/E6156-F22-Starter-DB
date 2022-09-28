@@ -21,5 +21,5 @@ create table columbia_student
  statement does not need to specify it.
  */
  insert into columbia_student (last_name, first_name, middle_name, email, uni)
-    values ("Ferguson", "Donald", "Francis", "dff@cs.columbia.edu", "dff9");
+    values ("Zou", "Junqi", "NA", "jz3506@columbia.edu", "jz3506");
 
